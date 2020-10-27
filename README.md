@@ -18,9 +18,9 @@ Please note that these are currently under heavy development.
 | M-dimer-cg.pdb               | Coarse-grained model of the M protein dimer   |            |
 | E-pentamer-cg.pdb            | Coarse-grained model of the E protein pentamer|            |
 | lipid-cg.pdb                 | Coarse-grained lipid model                    | arXiv:1910.05362 |
-| S-timer-aa.pdb               | All-atom model of the S protein trimer        | Amaro lab (amarolab.ucsd.edu) |
+| S-timer-aa.pdb               | All-atom model of the S protein trimer        | https://doi.org/10.1021/acscentsci.0c01056 |
 | M-dimer-aa.pdb               | All-atom model of the M protein dimer         | https://doi.org/10.1101/2020.03.25.008904 |
-| E-pentamer-aa.pdb            | All-atom model of the E protein pentamer      | Korkin lab (korkinlab.org) |
+| E-pentamer-aa.pdb            | All-atom model of the E protein pentamer      | https://dx.doi.org/10.3390%2Fv12040360 |
 | lipid-aa.pdb                 | All-atom model of a POPC lipid patch          |            |
 | sars-cov-2-virion-cg.pdb     | Coarse-grained model of the SARS-CoV-2 virion |            |
 | cg-virion.data               | LAMMPS data file for the CG virion            |            |
