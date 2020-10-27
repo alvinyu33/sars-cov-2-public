@@ -23,10 +23,11 @@ Please note that these are currently under heavy development.
 | E-pentamer-aa.pdb            | All-atom model of the E protein pentamer      | Korkin lab (korkinlab.org) |
 | lipid-aa.pdb                 | All-atom model of a POPC lipid patch          |            |
 | sars-cov-2-virion-cg.pdb     | Coarse-grained model of the SARS-CoV-2 virion |            |
-| cg-virion.data / cg-virion.psf | Coarse-grained MD trajectory for the virion |            |
 | cg-virion.data               | LAMMPS data file for the CG virion            |            |
 | cg-virion.ff                 | Force-field parameters for the CG virion      |            |
-
+| cg-virion.psf                | CG PSF file for the virion                    |            |
+| cg-virion.dcd                | Subsampled DCD trajectory for the virion      |            |
+| cg-virion-full.dcd           | Full DCD trajectory for the virion            |            |
 
   Voth Group
   Department of Chemistry  
