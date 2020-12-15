@@ -7,8 +7,7 @@ under an NSF RAPID award 2029092 to G.A.V. in response to the COVID-19 pandemic.
 ![Image of virion](images/fig1.jpg)
 
 If using these models, please cite:  
-  [https://doi.org/10.34974/q8ya-wh69](https://doi.datacite.org/dois/10.34974%2Fq8ya-wh69)  
-  https://doi.org/10.34974/j0v0-3d76 
+https://pubmed.ncbi.nlm.nih.gov/33253634/
 
 Please note that these are currently under heavy development.
 
