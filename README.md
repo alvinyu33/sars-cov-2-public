@@ -34,4 +34,3 @@ Please note that these are currently under heavy development.
 
 Contact:  
   yua@uchicago.edu  
-  gavoth@uchicago.edu
