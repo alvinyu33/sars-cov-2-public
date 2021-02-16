@@ -28,7 +28,7 @@ Please note that these are currently under heavy development.
 | cg-virion.dcd                | Subsampled DCD trajectory for the virion      |            |
 | cg-virion-full.dcd           | Full DCD trajectory for the virion            |            |
 
-  Voth Group
+  Voth Group   
   Department of Chemistry  
   University of Chicago  
 
