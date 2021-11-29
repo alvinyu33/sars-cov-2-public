@@ -2,14 +2,14 @@
 ***Multiscale CG Models for the SARS-CoV-2 Virion***
 
 This repository contains coarse-grained (CG) models for the SARS-CoV-2 virion developed 
-under NSF RAPID award 2029092 to G.A.V. in response to the COVID-19 pandemic.
+in response to the COVID-19 pandemic.
 
 ![Image of virion](images/fig1.jpg)
 
 If using these models, please cite:  
 https://pubmed.ncbi.nlm.nih.gov/33253634/
 
-Please note that these are currently under heavy development.
+Please note that these are currently under development.
 
 |            Files             |                   Description                 | References |
 |------------------------------|-----------------------------------------------|------------|
@@ -27,7 +27,6 @@ Please note that these are currently under heavy development.
 | cg-virion.psf                | CG PSF file for the virion                    |            |
 | cg-virion.dcd                | Subsampled DCD trajectory for the virion      |            |
 
-  Voth Group   
   Department of Chemistry  
   University of Chicago  
 
