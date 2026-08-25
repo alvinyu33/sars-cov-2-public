@@ -9,7 +9,6 @@ in response to the COVID-19 pandemic.
 If using these models, please cite:  
 https://pubmed.ncbi.nlm.nih.gov/33253634/
 
-Please note that these are currently under development.
 
 |            Files             |                   Description                 | References |
 |------------------------------|-----------------------------------------------|------------|
