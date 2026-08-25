@@ -26,9 +26,7 @@ Please note that these are currently under development.
 | cg-virion.ff                 | Force-field parameters for the CG virion      |            |
 | cg-virion.psf                | CG PSF file for the virion                    |            |
 | cg-virion.dcd                | Subsampled DCD trajectory for the virion      |            |
-
-  Department of Chemistry  
-  University of Chicago  
+ 
 
 Contact:  
-  yua@uchicago.edu  
+  alviny6@uci.edu 
